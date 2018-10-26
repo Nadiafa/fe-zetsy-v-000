@@ -9,7 +9,6 @@ body {
 	background: #F3EBE9;
 	font-size: 100%;
 	font-family: 'Times New Roman', serif;
-  margin-top: 0;
 }
 
 .wrapper {
@@ -17,7 +16,7 @@ body {
 	margin: 0 auto;
 	background: #fff;
 	padding: 0 45px 20px;
-	/*margin: 0 0 5px;*/
+	margin: 0 0 5px;
 	/*padding-bottom: 10px;*/
 	/*border-bottom: 1px solid #ccc;*/
 }
