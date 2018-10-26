@@ -57,10 +57,6 @@ p {
 
 footer {
   color: red;
+  font-size: 0.75em;
   text-align: right;
-}
-
-footer p {
-  color: red;
-  font-size: 0.5em;
 }
