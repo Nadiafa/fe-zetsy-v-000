@@ -55,6 +55,10 @@ p {
 	border: 5px solid #ccc;
 }
 
-footer p {
+footer {
   text-align: right;
+}
+
+footer p {
+  font-size: 0.5em;
 }
